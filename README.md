@@ -1,5 +1,7 @@
 # Smart-water-management-for-rajsthan
-This repository showcases Rajasthan’s smart water management initiatives, including MJSA, Jal Shakti Abhiyan, and ADB-supported projects. It features data on water conservation, SCADA monitoring, and community engagement, serving as a resource for policymakers, researchers, and development partners." Let me know if you'd like a version tailored .
+"This repository showcases Rajasthan’s smart water management initiatives, including MJSA, Jal Shakti Abhiyan, and ADB-supported projects. It features data on water conservation, SCADA monitoring, and community engagement, serving as a resource for policymakers, researchers, and development partners." Let me know if you'd like a version tailored."
+
+
 🧩 Problem Statement
 "Rajasthan faces acute water scarcity due to low rainfall and high evaporation. To ensure efficient water usage and reduce wastage, a smart water management system is needed that monitors water levels in tanks and reservoirs, automates irrigation, and provides real-time data to authorities and users."
 
